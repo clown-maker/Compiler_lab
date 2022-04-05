@@ -213,4 +213,4 @@ int array_basetx;              //index of symbol table's last symbol of array
 
 FILE* infile;
 
-// EOF PL0.h
+// EOF  PL0.h
